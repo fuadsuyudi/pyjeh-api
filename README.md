@@ -1,2 +1,2 @@
 # Python API
-Base Project for phyton api
+Base project for Phyton API
